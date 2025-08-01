@@ -38,19 +38,6 @@ This project classifies dog images into different breeds using deep learning and
 *(Exact numbers depend on runtime conditions and data split)*
 
 ---
-
-## 📈 Visuals
-
-### 📷 Sample Predictions
-*(You can add this image to `/assets/sample_predictions.png`)*  
-![Sample Predictions](assets/sample_predictions.png)
-
-### 📉 Training Graph
-*(Add loss/accuracy plot as `/assets/training_plot.png`)*  
-![Training Performance](assets/training_plot.png)
-
----
-
 ## 🚀 How to Run
 1. Clone this repository
 2. Open the notebook in [Google Colab](https://colab.research.google.com/)
@@ -83,3 +70,4 @@ Inspired by [Daniel Bourke's Dog Vision Project](https://github.com/mrdbourke/ze
 
 **Author:** [Your Name]  
 **GitHub:** [@yourusername](https://github.com/yourusername)
+
