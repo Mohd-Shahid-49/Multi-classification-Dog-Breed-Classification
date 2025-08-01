@@ -1,0 +1,6 @@
+tensorflow>=2.8
+matplotlib
+pandas
+numpy
+scikit-learn
+opencv-python
