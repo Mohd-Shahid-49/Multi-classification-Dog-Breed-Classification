@@ -68,6 +68,7 @@ Inspired by [Daniel Bourke's Dog Vision Project](https://github.com/mrdbourke/ze
 
 ---
 
-**Author:** [Your Name]  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Author:** MOHD SHAHID
+**GitHub:** [@Mohd-Shahid-49](https://github.com/Mohd-Shahid-49)
+
 
